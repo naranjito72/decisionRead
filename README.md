@@ -2,34 +2,21 @@
 
 # Team Members
     
-Carlos Jordan
-Roberto Garcia
+. Carlos Jordan  
+. Roberto Garcia
 
 # Tree Structure
 
-![](https://imgur.com/HP7xHOr.png)
+![](https://imgur.com/FUbrrbI.npg)
 
 #  Objetivos y desarrollo de la API  
 
-La API nace bajo el concepto de dotar de servidor y base de datos al Front-End (Decision Maker) realizado en el segundo módulo (Angular) del curso Mean-Stack. La función de la APP es resolver, de una manera objetiva y matemática, las preguntas que los usuarios puedan realizar. La función de la API es la recogida de esos datos, el CRUD de los mismos y su almacenaje en la BD. 
+La API nace bajo el concepto de dotar de servidor y base de datos al Front-End (Decision Maker) realizado en el segundo módulo (Angular) del curso Mean-Stack.
 
-![](https://imgur.com/JvGdhPD.png)
+. La función de la APP es resolver, de una manera objetiva y matemática, las preguntas que los usuarios puedan realizar. 
 
-.Usuarios registrados
+. La función de la API es la recogida de esos datos, el CRUD de los mismos y su almacenaje en la BD. 
 
-![](https://imgur.com/HIotKi3.png)
-
-.Preguntas realizadas por los usuarios registrados (notese los _id; pregunta y usuario que realizó la pregunta)
-
-![](https://imgur.com/qECImJE.png)
-
-.Aspectos positivos de cada pregunta realizada.
-
-![](https://imgur.com/CAwUswE.png)
-
-.Aspectos negativos de cada pregunta realizada.
-
-![](https://imgur.com/R2EGdGf.png)
 
 
                          UTILIZACIÓN        
