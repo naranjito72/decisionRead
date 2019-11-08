@@ -7,7 +7,7 @@
 
 # Tree Structure
 
-![](https://imgur.com/FUbrrbI.npg)
+![](https://imgur.com/FUbrrbI.png)
 
 #  Objetivos y desarrollo de la API  
 
