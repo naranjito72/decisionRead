@@ -48,17 +48,17 @@ La API nace bajo el concepto de dotar de servidor y base de datos al Front-End (
 
     Servidor
 
-    ![](https://imgur.com/2AH61RE.png)
+![](https://imgur.com/2AH61RE.png)
 
     Base de Datos
 
     Error register (https://localhost:3000/users/register)
 
-    ![](https://imgur.com/VoxjoFF.png)
+![](https://imgur.com/VoxjoFF.png)
 
     Success register (https://localhost:3000/users/register)
 
-    ![](https://imgur.com/Vbovdsg.png)
+![](https://imgur.com/Vbovdsg.png)
 
     
 
