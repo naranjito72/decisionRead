@@ -19,7 +19,7 @@ La API nace bajo el concepto de dotar de servidor y base de datos al Front-End (
 
 
 
-                         UTILIZACIÓN        
+UTILIZACIÓN        
 
 # URL'S
 
@@ -44,19 +44,66 @@ En el documento  .env es donde definiremos las rutas de:
 
 ![](https://imgur.com/0Mtrk03.png)
 
+# Creación del token
+
+Objeto creación token ./api/middleware/jwt_auth.js
+
+En el documento jwt_auth definimos la manera en que el token será creado:
+
+. Duración del token
+. Fecha finalización token
+. Codificación token
+
+                        export default {
+                            createToken(user) {
+                              const f1 = moment().unix();
+                              const f2 = moment().add(14, "days");
+                              const payload = {
+                                sub: user,
+                                iat: f1,
+                                exp: f2.unix()
+                              };
+                              const salidaToken = {
+                                orig: payload,
+                                fech: f2,
+                                token: jwt.encode(payload, process.env.SECRET_TOKEN)
+                              };
+                              return salidaToken;
+                            },
+                        
+Pasos para obtener un token válido:
+
+. SignUp (https://api-decision-helper.herokuapp.com/users/register)
+
+![](https://imgur.com/Vbovdsg.png)
+
+. SignIn  (https://api-decision-helper.herokuapp.com/users/oginl)
+
+![](https://imgur.com/0uUe1xh.png)
+
+Enlace postman
+
+(https://documenter.getpostman.com/view/9175109/SW18waDu)
+
+
+
 # Formatos de respuesta
 
-    Servidor
+
+
+Servidor
+
+En la creación del servidor hemos dejado el único console.log de todo el documento, informando de la conexión del servidor al puerto (local o Heroku) seleccionado.
 
 ![](https://imgur.com/2AH61RE.png)
 
-    Base de Datos
+Base de Datos
 
-    Error register (https://localhost:3000/users/register)
+Error register (https://localhost:3000/users/register)
 
 ![](https://imgur.com/VoxjoFF.png)
 
-    Success register (https://localhost:3000/users/register)
+Success register (https://localhost:3000/users/register)
 
 ![](https://imgur.com/Vbovdsg.png)
 
