@@ -73,17 +73,17 @@ En el documento jwt_auth definimos la manera en que el token será creado:
                         
 Pasos para obtener un token válido:
 
-. SignUp (https://api-decision-helper.herokuapp.com/users/register)
+. SignUp https://documenter.getpostman.com/view/9175109/SW18waJN
 
 ![](https://imgur.com/Vbovdsg.png)
 
-. SignIn  (https://api-decision-helper.herokuapp.com/users/login)
+. SignIn  https://documenter.getpostman.com/view/9175109/SW18waDu
 
 ![](https://imgur.com/0uUe1xh.png)
 
 Enlace postman
 
-(https://documenter.getpostman.com/view/9175109/SW18waDu)
+https://documenter.getpostman.com/view/9175109/SW18waDu
 
 
 
@@ -101,11 +101,11 @@ Base de datos
 
         ÉXITO
 
-(https://documenter.getpostman.com/view/9175109/SW18waDw?version=latest)
+https://documenter.getpostman.com/view/9175109/SW18waDw?version=latest
          
        ERRORES
 
-(https://documenter.getpostman.com/view/9175109/SW18waE4?version=latest)
+https://documenter.getpostman.com/view/9175109/SW18waE4?version=latest
 
 Error Handlers
 
@@ -113,6 +113,6 @@ Error Handlers
 
 NotFound
 
-(https://documenter.getpostman.com/view/9175109/SW18waJL?version=latest)
+https://documenter.getpostman.com/view/9175109/SW18waJL?version=latest
 
 
