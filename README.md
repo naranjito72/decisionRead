@@ -99,43 +99,20 @@ En la creación del servidor hemos dejado el único console.log de todo el docum
 
 Base de datos
 
+        ÉXITO
+
 (https://documenter.getpostman.com/view/9175109/SW18waDw?version=latest)
          
        ERRORES
 
-    Usuario ya existente  
+(https://documenter.getpostman.com/view/9175109/SW18waE4?version=latest)
 
-![](https://imgur.com/m62VGtL.png)   
+Error Handlers
 
-    Campo no rellenado
+![](https://imgur.com/OuO9UTq.png)
 
-![](https://imgur.com/4vHgJBM.png)    
+NotFound
 
-
-
-      Comprobación en la BBDD
-
-            Antes del registro
-
-![](https://imgur.com/c8DE4Za.png)
-
-            Registro positivo
-
-![](https://imgur.com/qhz3VFr.png)
-    
-    Respuesta caso usuario no existe en la base de datos
-
-![](https://imgur.com/TDsGp4r.png)
-            
-![](https://imgur.com/5uUKixD.png)
-
-   
-                          
-
-            
-
-
-    
-
+(https://documenter.getpostman.com/view/9175109/SW18waJL?version=latest)
 
 
