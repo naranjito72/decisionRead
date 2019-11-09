@@ -77,7 +77,7 @@ Pasos para obtener un token válido:
 
 ![](https://imgur.com/Vbovdsg.png)
 
-. SignIn  (https://api-decision-helper.herokuapp.com/users/oginl)
+. SignIn  (https://api-decision-helper.herokuapp.com/users/login)
 
 ![](https://imgur.com/0uUe1xh.png)
 
