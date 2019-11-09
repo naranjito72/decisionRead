@@ -129,57 +129,7 @@ Base de datos
             
 ![](https://imgur.com/5uUKixD.png)
 
-# Token
-
-    El token se crea en cuanto un usuario ya registrado se logea. 
-    
-            ./middleware/jwt_auth.mjs
-
-![](https://imgur.com/sejxwGS.png)
-
-            La duración de los tokens se puede modificar en:
-
-                    const payload = {
-                                sub: user,
-                                iat: moment().unix(),
-                                exp: moment()                                
-                               ==>  .add(14, "days") ==> Entre los paréntesis duración del token:  
-                                  .unix()  <==            "seconds", "minutes", "hours","days", "months", "years"
-                              };
-
-            * Documentación relativa a moment.js
-(https://momentjs.com/docs/)
-(https://flaviocopes.com/momentjs/)
-
-    En el momento de la creación  del token, también se codifica el mismo con la configuración de SECRET_TOKEN, adjunta el el documento .env
-
-![](https://imgur.com/CX4Vc5h.png)         
-
-    User login correcto y creación del token.
-
-![](https://imgur.com/0uUe1xh.png)  
-
-    User login incorrecto
-
-![](https://imgur.com/UbVjRcF.png)
-
-    User login no existe
-
-![](https://imgur.com/cSiaU6Y.png)        
-
-    ENTRADA A LA BASE DE DATOS
-
-        Una vez se valida el token (comparación y tiempo de expiración), se comprueban los parametros del login ( email y password), el usuario puede acceder a la base de datos y consultar, en el caso de haber utilizado la APP anteriormente, las preguntas que realizó anteriormente en la base de datos
-
-![](https://imgur.com/6sDqQeM.png)
-
-        O pudiendo escoger sólo la pregunta que le interese a traves del id de la misma
-
-![](https://imgur.com/0SM2WO7.png)    
-
-
    
-(https://web.postman.co/collections/9175109-8f2ce70b-c8aa-4a28-9090-4ffee58f18c9?version=latest&workspace=ed7b3597-9f25-482f-b6a4-094d3f7d65af)            
                           
 
             
