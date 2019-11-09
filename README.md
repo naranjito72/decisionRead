@@ -97,41 +97,9 @@ En la creación del servidor hemos dejado el único console.log de todo el docum
 
 ![](https://imgur.com/2AH61RE.png)
 
-Base de Datos
+Base de datos
 
-Error register (https://localhost:3000/users/register)
-
-![](https://imgur.com/VoxjoFF.png)
-
-Success register (https://localhost:3000/users/register)
-
-![](https://imgur.com/Vbovdsg.png)
-
-    
-
-        Creación Usuario
-
-        <nombre src:[API-Decision-Helper]>/middleware/create.mjs
-
-En la creación de los usuarios tenemos varios pasos. Primero hemos creado un new Schema de usuario en nuestro documento ./models/schema.mjs y luego un método para guardar el nuevo usuario registrado si no existe previamente.
-
-Hemos definido en nuestro schema:
-            . Tipo de mensaje: String
-            . Sin espacios en blanco (los elimina el objeto directamente)
-            . Mail sin espacios en blanco ni antes ni después del @ y ningumo después del punto
-            . Todos los campos son obligatorios, no pueden quedar en blanco
-            . Nombre en mayúscula
-            . Encriptación del password
-
-![](https://imgur.com/EaY5HWl.png)   
-
-       REGISTRO CORRECTO
-
-![](https://imgur.com/jAvBWmj.png)  
-
-        * Opciones del new Schema (email:{lowercase: true} y this.name.toUppercase) funcionan correctamente.
-
-![](https://imgur.com/lelIsMI.png)
+(https://documenter.getpostman.com/view/9175109/SW18waDw?version=latest)
          
        ERRORES
 
