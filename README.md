@@ -23,13 +23,26 @@ La API nace bajo el concepto de dotar de servidor y base de datos al Front-End (
 
 # URL'S
 
-  Url del servidor, creada en el documento server.mjs (método https) pero con el puerto definido en el doc .env
+Url del servidor. Se crea en el documento server.mjs (método *https para localhost) pero con el puerto definido en el doc .env
+  
+ *Debemos recordar que al subir al nuestra aplicación al servidor HEROKU, el mismo nos crea el https, con lo cual debemos modificar en nuestro documento server.js 
 
-  ![](https://imgur.com/k09qqtR.png)
+            https.createServer(opt, app).listen(process.env.PORT)
+por
 
-  Url's (local o modo producción) de la base de datos, alojada en el documento .env
+            http.createServer(app).listen(process.env.PORT)
 
-  ![](https://imgur.com/0Mtrk03.png)
+En el documento  .env es donde definiremos las rutas de:
+
+        . Puerto servidor
+                    . localhost
+                    . Heroku (modo producción)
+
+        . Base de datos
+                    . localhost://27017
+                    . mongo Atlass
+
+![](https://imgur.com/0Mtrk03.png)
 
 # Formatos de respuesta
 
@@ -151,7 +164,7 @@ Hemos definido en nuestro schema:
 
 
    
-             
+(https://web.postman.co/collections/9175109-8f2ce70b-c8aa-4a28-9090-4ffee58f18c9?version=latest&workspace=ed7b3597-9f25-482f-b6a4-094d3f7d65af)            
                           
 
             
