@@ -17,6 +17,8 @@ Proyecto: API-Decision_Helper
 
 ![](https://imgur.com/O3w0uUO.png)
 
+![](https://imgur.com/rAc3NLf.png)
+
   
 
 # Objetivos y desarrollo de la API
