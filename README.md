@@ -184,7 +184,7 @@ En la creación del servidor hemos dejado el único console.log de todo el docum
 
   
 
-https://documenter.getpostman.com/view/9175109/SW18waDw
+https://documenter.getpostman.com/view/9175109/SW7T6r2j
 
 - ERRORES
 
