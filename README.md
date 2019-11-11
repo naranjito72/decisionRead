@@ -7,7 +7,7 @@ Proyecto: API-Decision_Helper
 
 ### . Carlos Jordan
 
-### . Roberto Garcia
+### . [Roberto Garcia](https://theclick36.com)
 
   
 
@@ -133,7 +133,7 @@ Pasos para obtener un token válido:
 
   
 
-![](https://imgur.com/Vbovdsg.png)
+![](https://imgur.com/gHdhpMq.png)
 
   
 
@@ -141,7 +141,7 @@ Pasos para obtener un token válido:
 
   
 
-![](https://imgur.com/0uUe1xh.png)
+![](https://imgur.com/6MFU556.png)
 
   
 
@@ -168,7 +168,7 @@ En la creación del servidor hemos dejado el único console.log de todo el docum
 
   
 
-![](https://imgur.com/2AH61RE.png)
+![](https://imgur.com/HdST98W.png)
 
   
 
@@ -176,15 +176,12 @@ En la creación del servidor hemos dejado el único console.log de todo el docum
 
   
 
-- ÉXITO
-
-  
+- ÉXITO  
 
 https://documenter.getpostman.com/view/9175109/SW7T6r2j
 
-- ERRORES
 
-  
+- ERRORES
 
 https://documenter.getpostman.com/view/9175109/SW18waE4
 
@@ -194,7 +191,7 @@ https://documenter.getpostman.com/view/9175109/SW18waE4
 
   
 
-![](https://imgur.com/OuO9UTq.png)
+![](https://imgur.com/G4fuF5D.png)
 
   
 
