@@ -133,7 +133,7 @@ Pasos para obtener un token válido:
 
   
 
-![](https://imgur.com/gHdhpMq.png)
+![](https://imgur.com/oH59Z5B.png)
 
   
 
