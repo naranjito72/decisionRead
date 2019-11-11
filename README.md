@@ -14,13 +14,9 @@ Proyecto: API-Decision_Helper
 ## Tree Structure
 
   
-
-![](https://imgur.com/O3w0uUO.png)
-
-![](https://imgur.com/rAc3NLf.png)
+![](https://imgur.com/De1On7I.png)
 
   
-
 # Objetivos y desarrollo de la API
 
   
