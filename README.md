@@ -129,7 +129,7 @@ Pasos para obtener un token válido:
 
   
 
-- SignUp https://documenter.getpostman.com/view/9175109/SW7T7X53
+[SignUp](https://documenter.getpostman.com/view/9175109/SW7T7X53)
 
   
 
@@ -137,7 +137,7 @@ Pasos para obtener un token válido:
 
   
 
-- SignIn https://documenter.getpostman.com/view/9175109/SW7T7X55
+[SignIn](https://documenter.getpostman.com/view/9175109/SW7T7X55)
 
   
 
@@ -145,11 +145,7 @@ Pasos para obtener un token válido:
 
   
 
-- Enlace postman
-
-  
-
-https://documenter.getpostman.com/view/9175109/SW18waDu
+[Enlace postman](https://documenter.getpostman.com/view/9175109/SW18waDu)
 
   
 # Endpoints
@@ -195,7 +191,7 @@ https://documenter.getpostman.com/view/9175109/SW18waE4
 
   
 
-- NotFound
+### NotFound
 
   
 
