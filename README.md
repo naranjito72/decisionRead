@@ -129,7 +129,7 @@ Pasos para obtener un token válido:
 
   
 
-[SignUp](https://documenter.getpostman.com/view/9175109/SW7T7X53)
+- [SignUp](https://documenter.getpostman.com/view/9175109/SW7T7X53)
 
   
 
@@ -137,7 +137,7 @@ Pasos para obtener un token válido:
 
   
 
-[SignIn](https://documenter.getpostman.com/view/9175109/SW7T7X55)
+- [SignIn](https://documenter.getpostman.com/view/9175109/SW7T7X55)
 
   
 
@@ -145,7 +145,7 @@ Pasos para obtener un token válido:
 
   
 
-[Enlace postman](https://documenter.getpostman.com/view/9175109/SW18waDu)
+- [Enlace postman](https://documenter.getpostman.com/view/9175109/SW18waDu)
 
   
 # Endpoints
@@ -172,14 +172,12 @@ En la creación del servidor hemos dejado el único console.log de todo el docum
 
   
 
-- ÉXITO  
-
-https://documenter.getpostman.com/view/9175109/SW7T6r2j
+- [ÉXITO](https://documenter.getpostman.com/view/9175109/SW7T6r2j)  
 
 
-- ERRORES
+- [ERRORES](https://documenter.getpostman.com/view/9175109/SW18waE4)
 
-https://documenter.getpostman.com/view/9175109/SW18waE4
+
 
   
 
