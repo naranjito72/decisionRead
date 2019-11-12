@@ -140,9 +140,7 @@ Pasos para obtener un token válido:
 
 ![](https://imgur.com/6MFU556.png)
 
-  
 
-- [Enlace POSTMAN](https://documenter.getpostman.com/view/9175109/SW18waDu)
 
   
 # Endpoints
