@@ -1,9 +1,6 @@
 
-Proyecto: API-Decision_Helper
+# Proyecto: API-Decision_Helper
 
-  
-
-# Team Members
 
 ### . Carlos Jordan
 
@@ -145,7 +142,7 @@ Pasos para obtener un token válido:
 
   
 
-- [Enlace postman](https://documenter.getpostman.com/view/9175109/SW18waDu)
+- [Enlace POSTMAN](https://documenter.getpostman.com/view/9175109/SW18waDu)
 
   
 # Endpoints
@@ -190,7 +187,3 @@ En la creación del servidor hemos dejado el único console.log de todo el docum
   
 
 ### [NotFound](https://documenter.getpostman.com/view/9175109/SW18waJL)
-
-  
-
-
